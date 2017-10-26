@@ -1,0 +1,6 @@
+[submodule "generator-learn"]
+	path = generator-learn
+	url = git@github.com:uhw/generator-learn.git
+[submodule "discriminator-learn"]
+	path = discriminator-learn
+	url = git@github.com:uhw/discriminator-learn.git
